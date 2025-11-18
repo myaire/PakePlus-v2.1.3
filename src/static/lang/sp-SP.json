@@ -1,0 +1,36 @@
+{
+	"home":{
+		"home":"西班牙语",
+		"title":"title",
+		"nav":"inicio",
+		"nav2":"recarga",
+		"recharge_title":"recarga"
+	},
+	"recharge":{
+		"title":"Obtener monedas",
+		"title2":"Para Galaciones que Envías!!!",
+		"blance":"Saldo:",
+		"pay_method":"Método de pago",
+		"pay_type1":"Añadir tarjeta de crédito o débito",
+		"pay_type2":"Alipay",
+		"callback":"Pago completado",
+		"callback2":"Sus monedas de pago completadas, estas monedas enviarán a su amigo",
+		"loading":"Procesamiento de su pago",
+		"loading2":"Esto podría tomar unos segundos",
+		"invite1":"Invitar y obtener recompensas!",
+		"invite2":"Elige a tus amigos para unirte",
+		"addpayment1":"Añadir tarjeta de crédito o débito",
+		"addpayment2":"Enriquecer otros métodos de pago",
+		"submit":"recarga",
+		"icon_14":"$0.99",
+		"icon_14":"$0.18",
+		"icon_70":"$0.91",
+		"icon_350":"$4.55",
+		"icon_700":"$9.10",
+		"icon_1400":"$18.02",
+		"icon_3500":"$45.50",
+		"icon_7000":"$91.00",
+		"icon_17500":"$227.50",
+		"icon_35000":"$455.00"
+	}
+}
