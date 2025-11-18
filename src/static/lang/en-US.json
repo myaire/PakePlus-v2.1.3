@@ -1,0 +1,36 @@
+{
+	"home":{
+		"home":"英文",
+		"title":"title",
+		"nav":"home",
+		"nav2":"recharge",
+		"recharge_title":"recharge"
+	},
+	"recharge":{
+		"title":"Get Coins",
+		"title2":"For Galations You Send!!!",
+		"blance":"Balance:",
+		"pay_method":"Payment method",
+		"pay_type1":"Add creadit Or Debit Card",
+		"pay_type2":"Alipay",
+		"callback":"Payment completed",
+		"callback2":"Your payment coins completed,This coins will to send your friend",
+		"loading":"Processing your payment",
+		"loading2":"This could take few seconds",
+		"invite1":"Invite & Get Rewards!",
+		"invite2":"Choose your friends to join",
+		"addpayment1":"Add Credit Or Debit Card",
+		"addpayment2":"Enrich other payment methods",
+		"submit":"recharge",
+		"icon_14":"$0.99",
+		"icon_14":"$0.18",
+		"icon_70":"$0.91",
+		"icon_350":"$4.55",
+		"icon_700":"$9.10",
+		"icon_1400":"$18.02",
+		"icon_3500":"$45.50",
+		"icon_7000":"$91.00",
+		"icon_17500":"$227.50",
+		"icon_35000":"$455.00"
+	}
+}
