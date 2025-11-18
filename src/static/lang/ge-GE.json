@@ -1,0 +1,36 @@
+{
+	"home":{
+		"home":"德语",
+		"title":"title",
+		"nav":"Startseite",
+		"nav2":"Aufladen",
+		"recharge_title":"Aufladen"
+	},
+	"recharge":{
+		"title":"Münzen bekommen",
+		"title2":"Für Galatien, die Sie senden!!!",
+		"blance":"Saldo:",
+		"pay_method":"Zahlungsmethode",
+		"pay_type1":"Creadit oder Debitkarte hinzufügen",
+		"pay_type2":"Alipay",
+		"callback":"Zahlung abgeschlossen",
+		"callback2":"Ihre Zahlungsmünzen abgeschlossen, diese Münzen werden Ihren Freund senden",
+		"loading":"Bearbeitung Ihrer Zahlung",
+		"loading2":"Das könnte ein paar Sekunden dauern",
+		"invite1":"Einladen & Belohnungen erhalten!",
+		"invite2":"Wählen Sie Ihre Freunde zum Beitritt",
+		"addpayment1":"Creadit oder Debitkarte hinzufügen",
+		"addpayment2":"Erweitern Sie andere Zahlungsmethoden",
+		"submit":"Aufladen",
+		"icon_14":"$0.99",
+		"icon_14":"$0.18",
+		"icon_70":"$0.91",
+		"icon_350":"$4.55",
+		"icon_700":"$9.10",
+		"icon_1400":"$18.02",
+		"icon_3500":"$45.50",
+		"icon_7000":"$91.00",
+		"icon_17500":"$227.50",
+		"icon_35000":"$455.00"
+	}
+}
